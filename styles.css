@@ -1,0 +1,23 @@
+body {
+    background-color: salmon;
+}
+
+h1 {
+    color: yellow;
+    font-size: 68px;
+    margin-left: 20%;
+}
+
+.images {
+    width: 700px;
+}
+
+.p {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 52px;
+    color: lightgreen;
+    margin-left: 20%;
+}
